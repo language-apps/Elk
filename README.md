@@ -1,4 +1,4 @@
-#Elk ([E]xtended [L]inguistic [K]etboards)
+# Elk ([E]xtended [L]inguistic [K]etboards)
 
 This project is an extension of ACORNS. Elks were plentiful in the Pacific Northwest, hence the name.
 
